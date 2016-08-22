@@ -3,7 +3,7 @@ Blueprint
 
 A lightweight, simple, elegant framework for building mean applications
 
-[![npm version](https://img.shields.io/npm/v/@onehilltech/blueprint.svg?maxAge=2592000)](https://www.npmjs.com/package/@onehilltech/blueprint)
+[![npm version](https://img.shields.io/npm/v/@onehilltech/blueprint.svg)](https://www.npmjs.com/package/@onehilltech/blueprint)
 [![Build Status](https://travis-ci.org/onehilltech/blueprint.svg?branch=master)](https://travis-ci.org/onehilltech/blueprint)
 [![Dependencies](https://david-dm.org/onehilltech/blueprint.svg)](https://david-dm.org/onehilltech/blueprint)
 [![Coverage Status](https://coveralls.io/repos/github/onehilltech/blueprint/badge.svg?branch=master)](https://coveralls.io/github/onehilltech/blueprint?branch=master)
@@ -28,7 +28,7 @@ Install Blueprint package into your application:
     
 Add `./node_modules/.bin` to your `PATH`, and install Blueprint application:
 
-    blueprint init --name=[name_of_application]
+    blueprint init
 
 Then, start the web application:
 
